@@ -10,6 +10,6 @@ spring:
     name: microservicecloud-config-bonc-dev
 ---
  spring:
-   profiles: dev
+   profiles: test
    application:
      name: microservicecloud-config-bonc-test
